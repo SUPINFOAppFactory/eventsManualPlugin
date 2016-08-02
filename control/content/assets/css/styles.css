@@ -1,0 +1,41 @@
+.body-scroll{
+    height: 600px !important;
+}
+.draggable-list-view.tab-order.wide-list, .draggable-list-view.wide-list {
+    max-height: inherit;
+    height: inherit;
+}
+.main_view {
+    position: relative;
+    overflow: hidden;
+}
+
+.screens .screen.layouticon a, .screens .layoutgrid .layouticon{
+    height: 94px !important;
+    line-height: 90px !important;
+}
+
+.mapSize{
+    height: 200px;
+    position: relative;
+}
+
+.carousel-padding-botton{
+    padding-bottom: 3%;
+}
+
+.carousel-list-noImage-margin{
+    width: 72%;
+    margin-left: 145px;
+}
+
+.item-scroll{
+    overflow-y: scroll;
+    height: 457px;
+}
+
+.overflowY-auto{
+    overflow-y: auto;
+}
+
+.input-disabled{background-color:#DEDEDE;border:1px solid #ABADB3;padding:2px 1px;}
