@@ -1,7 +1,7 @@
 {
   "name": "eventsManualPlugin",
   "version": "1.0.0",
-  "description": "This SUPINFO AppFactoty plugin allows user to create and manage events manually",
+  "description": "This plugin allows user to create and manage events manually",
   "main": "index.js",
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install",
